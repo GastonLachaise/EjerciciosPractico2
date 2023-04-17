@@ -1,0 +1,8 @@
+C:\Users\gasto\OneDrive\Documentos\programacion3\Practico2Ejer4\bin\Debug\Practico2Ejer4.exe.config
+C:\Users\gasto\OneDrive\Documentos\programacion3\Practico2Ejer4\bin\Debug\Practico2Ejer4.exe
+C:\Users\gasto\OneDrive\Documentos\programacion3\Practico2Ejer4\bin\Debug\Practico2Ejer4.pdb
+C:\Users\gasto\OneDrive\Documentos\programacion3\Practico2Ejer4\obj\Debug\Practico2Ejer4.csproj.AssemblyReference.cache
+C:\Users\gasto\OneDrive\Documentos\programacion3\Practico2Ejer4\obj\Debug\Practico2Ejer4.csproj.SuggestedBindingRedirects.cache
+C:\Users\gasto\OneDrive\Documentos\programacion3\Practico2Ejer4\obj\Debug\Practico2Ejer4.csproj.CoreCompileInputs.cache
+C:\Users\gasto\OneDrive\Documentos\programacion3\Practico2Ejer4\obj\Debug\Practico2Ejer4.exe
+C:\Users\gasto\OneDrive\Documentos\programacion3\Practico2Ejer4\obj\Debug\Practico2Ejer4.pdb
